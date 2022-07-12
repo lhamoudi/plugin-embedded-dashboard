@@ -1,7 +1,10 @@
-# Private & Silly
+# Embedding Insights Dashboards in Flex
 
-Embeds an Insights Dashboard by ID, and shows what happoens if you try adding a Teams View and Queue Stats view when you're not a supervisor. Not good things. Any time a pull from Taskrouter REST API is needed, there's an auth error.
+Embeds an Insights Dashboard by ID. Nothing much fancy going on, though you need to have a supervisor role to see dashboards. 
 
+Also shows what happoens if you try adding a Teams View and Queue Stats view when you're not a supervisor. Not good things. Any time a fetch from Taskrouter REST API is needed, there's an auth error.
+
+-- 
 Twilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the API, check out our [Flex documentation](https://www.twilio.com/docs/flex).
 
 ## Setup
